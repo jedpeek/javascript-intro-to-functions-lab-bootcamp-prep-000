@@ -22,7 +22,7 @@ function sayHiToGrandma(string){
   elsif(string === string.toUpperCase()){
     return "YES INDEED!"
   }
-  else(string === "I love you, Grandma."){
+  elsif(string === "I love you, Grandma."){
     return "I love you, too."
   }
 }
